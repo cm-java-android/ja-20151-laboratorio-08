@@ -4,5 +4,7 @@
     <string name="app_name">Laboratorio08</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="btn_ok">OK</string>
+    <string name="btn_cancelar">Cancelar</string>
 
 </resources>
